@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some title"
-date:   2024-12-01 22:20:59 +00:00
+date:   2024-11-01 22:20:59 +00:00
 image: /images/placeholder.jpg
 categories: research
 author: "Martin Kocour"
