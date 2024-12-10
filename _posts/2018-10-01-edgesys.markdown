@@ -8,5 +8,4 @@ authors: "Alejandro Cartas, **Martin Kocour**, Aravindh Raman, Ilias Leontiadis,
 venue: "The 2nd ACM International Workshop on Edge Systems, Analytics and Networking (EDGESYS 2019), Dressden, DE"
 website: https://www.fit.vut.cz/research/group/speech/public/publi/2019/cartas_edgesys19_p54.pdf
 ---
-In this paper we revisited some assumptions made by previous works focusing on machine learning inference and edge computing. We show recent advances in Deep Learning has enabled inference in few tens/hundreds of milliseconds even for computing intensive applications (e.g., object detection or speech recognition). As a consequence, we showed network latency is now the main bottleneck in end-to end latency especially when GPU are used.
-
+In this paper we focused on machine learning inference at mobile networks edge. We show recent advances in Deep Learning has enabled inference in few tens/hundreds of milliseconds even for computing intensive applications (e.g., object detection or speech recognition). As a consequence, we showed network latency is now the main bottleneck in end-to end latency especially when GPU are used.
