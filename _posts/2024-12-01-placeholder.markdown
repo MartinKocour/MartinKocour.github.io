@@ -3,7 +3,7 @@ layout: post
 title:  "Some title"
 date:   2024-11-01 22:20:59 +00:00
 image: /images/placeholder.jpg
-categories: research
+categories: placeholder
 authors: "Martin Kocour"
 venue: "Some venu"
 subtitle: "Some subtitle"
