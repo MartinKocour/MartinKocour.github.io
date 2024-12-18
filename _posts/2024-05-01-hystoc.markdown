@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hystoc: Obtaining Word Confidences for Fusion of End-To-End ASR Systems"
+date:  2024-03-25 22:20:59 +00:00
+image: /images/placeholder.jpg
+categories: research
+authors: "Karel Beneš, <b>Martin Kocour</b>, Lukáš Burget"
+venue: "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, Seoul, KR"
+url: "https://www.fit.vut.cz/research/publication/13267"
+---
+

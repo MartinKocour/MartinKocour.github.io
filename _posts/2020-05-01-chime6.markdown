@@ -1,0 +1,11 @@
+---
+layout: post
+title: "BUT System for CHiME-6 Challenge"
+date:  2020-03-25 22:20:59 +00:00
+image: /images/placeholder.jpg
+categories: research
+authors: "Kateřina Žmolíková, <b>Martin Kocour</b>, Nicolás Federico Landini, Karel Beneš, et. al"
+venue: "Proceedings of CHiME 2020 Virtual Workshop, Barcelona, ES"
+url: "https://www.fit.vut.cz/research/publication/12283"
+---
+

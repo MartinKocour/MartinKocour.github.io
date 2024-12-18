@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Automatic Processing Pipeline for Collecting and Annotating Air-Traffic Voice Communication Data"
+date:  2021-03-25 22:20:59 +00:00
+image: /images/placeholder.jpg
+categories: research
+authors: "<b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Santosh Kesiraju, Juan Zuluaga-Gomez, et al."
+venue: "Proceedings of 9th OpenSky Symposium 2021, OpenSky Network, Brussels, Belgium, Brussels, BE"
+url: "https://www.fit.vut.cz/research/publication/12687"
+---
+
