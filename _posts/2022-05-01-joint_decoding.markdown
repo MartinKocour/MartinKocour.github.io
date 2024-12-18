@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "<b>Martin Kocour</b>, Kateřina Žmolíková, Francois Antoine Lucas Yang Ondel, Ján Švec, Marc Delcroix, Tsubasa Ochiai, Lukáš Burget, Jan Černocký"
 venue: "Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH, Incheon, KR"
-url: "https://www.fit.vut.cz/research/publication/12852"
+website: "https://www.fit.vut.cz/research/publication/12852"
 ---
 

@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "<b>Martin Kocour</b>, Karel Veselý, Alexander Blatt, Juan Zuluaga-Gomez, Igor Szöke, Jan Černocký, Dietrich Klakow, Petr Motlíček"
 venue: "Proceedings Interspeech 2021, Brno, CZ"
-url: "https://www.fit.vut.cz/research/publication/12610"
+website: "https://www.fit.vut.cz/research/publication/12610"
 ---
 

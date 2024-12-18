@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "Karel Beneš, <b>Martin Kocour</b>, Lukáš Burget"
 venue: "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, Seoul, KR"
-url: "https://www.fit.vut.cz/research/publication/13267"
+website: "https://www.fit.vut.cz/research/publication/13267"
 ---
 

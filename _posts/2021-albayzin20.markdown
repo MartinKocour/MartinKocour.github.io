@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "<b>Martin Kocour</b>, Guillermo Cámbara, Jordi Luque, David Bonet, et al."
 venue: "Proceedings of IberSPEECH 2021, Vallaloid, ES"
-url: "https://www.fit.vut.cz/research/publication/12577"
+website: "https://www.fit.vut.cz/research/publication/12577"
 ---
 

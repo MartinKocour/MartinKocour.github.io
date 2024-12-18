@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "Alexander Blatt, <b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Dietrich Klakow"
 venue: "ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings, Singapore, SG"
-url: "https://www.fit.vut.cz/research/publication/12789"
+website: "https://www.fit.vut.cz/research/publication/12789"
 ---
 

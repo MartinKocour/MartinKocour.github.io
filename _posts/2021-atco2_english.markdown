@@ -6,6 +6,6 @@ image: /images/placeholder.jpg
 categories: research
 authors: "Igor Szöke, Santosh Kesiraju, Ondřej Novotný, <b>Martin Kocour</b>, Karel Veselý, Jan Černocký",
 venue: "Proceedings Interspeech 2021, Brno, CZ"
-url: "https://www.fit.vut.cz/research/publication/12609"
+website: "https://www.fit.vut.cz/research/publication/12609"
 ---
 
