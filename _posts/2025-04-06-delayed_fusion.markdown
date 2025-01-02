@@ -2,7 +2,7 @@
 layout: post
 title: "Delayed Fusion: Integrating Large Language Models into First-Pass Decoding in End-to-end Speech Recognition"
 date:  2025-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/delayed_fusion.jpg
 categories: research
 authors: "Takaaki Hori, <b>Martin Kocour</b>, Adnan Haider, Erik McDermott"
 venue: "ICASSP 2025, Hyderabad, IN"
