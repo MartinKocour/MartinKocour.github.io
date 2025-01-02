@@ -5,7 +5,7 @@ date:  2022-03-25 22:20:59 +00:00
 image: /images/placeholder.jpg
 categories: research
 authors: "Alexander Blatt, <b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Dietrich Klakow"
-venue: "ICASSP 2022, Singapore, SG"
+venue: "ICASSP, Singapore, SG"
 website: "https://www.fit.vut.cz/research/publication/12789"
 ---
 

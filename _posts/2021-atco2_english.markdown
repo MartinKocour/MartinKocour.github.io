@@ -5,7 +5,7 @@ date:  2021-03-25 22:20:59 +00:00
 image: /images/placeholder.jpg
 categories: research
 authors: "Igor Szöke, Santosh Kesiraju, Ondřej Novotný, <b>Martin Kocour</b>, Karel Veselý, Jan Černocký",
-venue: "INTERSPEECH 2021, Brno, CZ"
+venue: "INTERSPEECH, Brno, CZ"
 website: "https://www.fit.vut.cz/research/publication/12609"
 ---
 
