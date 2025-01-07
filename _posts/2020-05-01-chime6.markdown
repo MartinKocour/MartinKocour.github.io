@@ -6,7 +6,7 @@ image: /images/chime.jpg
 categories: research
 authors: "Kateřina Žmolíková, <b>Martin Kocour</b>, Nicolás Federico Landini, Karel Beneš, Martin Karafiát, K. Hari Vydana, Alicia Díez Lozano, Oldřich Plchot, Karthick Murali Baskar, Ján Švec, Ladislav Mošner, Vladimír Malenovský, Lukáš Burget, Bolaji Yusuf, Ondřej Novotný, Fratišek Grézl, Igor Szöke, Jan Černocký"
 venue: "CHiME Virtual Workshop, Barcelona, ES"
-website: "https://www.fit.vut.cz/research/publication/12283"
+website: "https://www.isca-archive.org/chime_2020/zmolikova20_chime.html"
 slides: /pdfs/CHiME6_BUT_speech_presentation.pdf
 youtube: "https://www.youtube.com/watch?v=37zqC0RlwV4"
 ---
