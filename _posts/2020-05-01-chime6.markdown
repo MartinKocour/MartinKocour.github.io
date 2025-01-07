@@ -2,10 +2,15 @@
 layout: post
 title: "BUT System for CHiME-6 Challenge"
 date:  2020-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/chime.jpg
 categories: research
-authors: "Kateřina Žmolíková, <b>Martin Kocour</b>, Nicolás Federico Landini, Karel Beneš, et. al"
+authors: "Kateřina Žmolíková, <b>Martin Kocour</b>, Nicolás Federico Landini, Karel Beneš, Martin Karafiát, K. Hari Vydana, Alicia Díez Lozano, Oldřich Plchot, Karthick Murali Baskar, Ján Švec, Ladislav Mošner, Vladimír Malenovský, Lukáš Burget, Bolaji Yusuf, Ondřej Novotný, Fratišek Grézl, Igor Szöke, Jan Černocký"
 venue: "CHiME Virtual Workshop, Barcelona, ES"
 website: "https://www.fit.vut.cz/research/publication/12283"
+slides: /pdfs/CHiME6_BUT_speech_presentation.pdf
+youtube: "https://www.youtube.com/watch?v=37zqC0RlwV4"
 ---
-
+This paper describes our efforts in the development of the system for the <a href="https://chimechallenge.github.io/chime6/">CHiME-6 challenge</a> with far-field dinner party recordings.
+We explore using different subsets of data for training, different neural network architectures, discriminative training, more robust i-vectors, and semi-supervised training on VoxCeleb data.
+When fusing our best systems, we achieve 41.21 % / 42.55 % WER on Track 1 and 55.15% / 69.04 % on Track 2, for development and evaluation respectively.
+Our team placed <b>5th<b> in this challenge.
