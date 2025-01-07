@@ -2,10 +2,11 @@
 layout: post
 title: "Hystoc: Obtaining Word Confidences for Fusion of End-To-End ASR Systems"
 date:  2024-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/conf_net.jpg
 categories: research
 authors: "Karel Beneš, <b>Martin Kocour</b>, Lukáš Burget"
 venue: "ICASSP, Seoul, KR"
-website: "https://www.fit.vut.cz/research/publication/13267"
+website: "https://ieeexplore.ieee.org/document/10446739"
+arxiv: "https://arxiv.org/abs/2305.12579"
 ---
-
+End-to-end automatic speech recognition systems are increasingly popular but often lack well-calibrated word-level confidences. We propose Hystoc, a simple method to derive word-level confidences from hypothesis-level scores. Hystoc aligns n-best outputs into a confusion network, where word-level confidences are computed as posterior probabilities. Our experiments show that Hystoc provides well-correlated confidence estimates and boosts the effectiveness of system fusion, improving word error rate by up to 1% absolute on the Spanish RTVE2020 dataset. While direct fusion of n-best outputs from similar systems yields minor gains, Hystoc proves valuable in broader fusion scenarios.
