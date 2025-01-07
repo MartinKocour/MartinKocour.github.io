@@ -4,7 +4,7 @@ title: "Automatic Processing Pipeline for Collecting and Annotating Air-Traffic 
 date:  2021-03-25 22:20:59 +00:00
 image: /images/logo-atco2-small.jpg
 categories: research
-authors: "<b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Santosh Kesiraju, Juan Zuluaga-Gomez, et al."
+authors: "<b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Santosh Kesiraju, Juan Zuluaga-Gomez, Alexander Blatt, Amrutha Prasad, Iuliia Nigmatulina, Petr Motlíček, Dietrich Klakow, Allan Tart, Hicham Atassi, Pavel Kolčárek, Jan Černocký, Claudia Cevenini, Khalid Choukri, Mickael Rigault, Fabian Landis, Saeed Sarfjoo, Chloe Salamin"
 venue: "OpenSky Symposium, Brussels, BE"
 website: "https://www.fit.vut.cz/research/group/speech/public/publi/2021/kocour_oss2021_mdpi_engproc-13-00008.pdf"
 project: "https://www.atco2.org/"
