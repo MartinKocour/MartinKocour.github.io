@@ -4,7 +4,7 @@ title: "Delayed Fusion: Integrating Large Language Models into First-Pass Decodi
 date:  2025-01-01 22:20:59 +00:00
 image: /images/delayed_fusion.jpg
 categories: research
-authors: "Takaaki Hori, <b>Martin Kocour</b>, Adnan Haider, Erik McDermott"
+authors: "Takaaki Hori, <b>Martin Kocour</b>, Adnan Haider, Erik McDermott, Xiaodan Zhuang"
 venue: "ICASSP, Hyderabad, IN"
 website: "https://2025.ieeeicassp.org/"
 ---
