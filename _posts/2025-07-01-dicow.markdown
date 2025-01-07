@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition"
-date:  2025-01-07 21:20:59 +00:00
+date:  2025-01-06 21:20:59 +00:00
 image: /images/target_speaker_whisper_stno.jpg
 categories: research
 authors: "Alexander Polok<sup>*</sup>, Dominik Klement<sup>*</sup>, <b>Martin Kocour<sup>*</sup></b>, Jiangyu Han, Federico Landini, Bolaji Yusuf, Matthew Wiesner, Sanjeev Khudanpur, Jan Černocký, Lukáš Burget"
