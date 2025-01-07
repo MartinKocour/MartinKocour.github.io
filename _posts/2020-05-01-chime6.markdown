@@ -13,4 +13,4 @@ youtube: "https://www.youtube.com/watch?v=37zqC0RlwV4"
 This paper describes our efforts in the development of the system for the <a href="https://chimechallenge.github.io/chime6/">CHiME-6 challenge</a> with far-field dinner party recordings.
 We explore using different subsets of data for training, different neural network architectures, discriminative training, more robust i-vectors, and semi-supervised training on VoxCeleb data.
 When fusing our best systems, we achieve 41.21 % / 42.55 % WER on Track 1 and 55.15% / 69.04 % on Track 2, for development and evaluation respectively.
-Our team placed <b>5th<b> in this challenge.
+Our team placed <b>5th</b> in this challenge.
