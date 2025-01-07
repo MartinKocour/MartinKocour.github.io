@@ -2,10 +2,11 @@
 layout: post
 title: "BCN2BRNO: ASR System Fusion for Albayzin 2020 Speech to Text Challenge"
 date:  2021-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/albayzin_2020.jpg
 categories: research
-authors: "<b>Martin Kocour</b>, Guillermo Cámbara, Jordi Luque, David Bonet, et al."
+authors: "<b>Martin Kocour</b>, Guillermo Cámbara, Jordi Luque, David Bonet, Mireia Farrús, Martin Karafiát, Karel Veselý, Jan Černocký"
 venue: "IberSPEECH, Vallaloid, ES"
-website: "https://www.fit.vut.cz/research/publication/12577"
+website: "https://www.isca-archive.org/iberspeech_2021/kocour21_iberspeech.html"
+project: "https://catedrartve.unizar.es/albayzin2020results.html"
 ---
-
+This paper presents a joint effort by BUT and Telefónica Research to develop ASR systems for the <a href="https://catedrartve.unizar.es/albayzin2020.html">Albayzin 2020 Speech-to-Text Challenge (S2TC)</a>. The Albayzin S2TC focuses on evaluating ASR systems for broadcast TV shows. In this work, we compare hybrid and end-to-end approaches. A fusion of our best systems achieved 23.33% WER in the official Albayzin 2020 evaluations and 13.3% WER on the Albayzin 2018 evaluation set. Additionally, we discuss efforts to retrieve high-quality transcripts for training.
