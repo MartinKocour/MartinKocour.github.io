@@ -2,10 +2,16 @@
 layout: post
 title: "Boosting of Contextual Information in ASR for Air-Traffic Call-Sign Recognition"
 date:  2021-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/callsign_boosting.jpg
 categories: research
 authors: "<b>Martin Kocour</b>, Karel Veselý, Alexander Blatt, Juan Zuluaga-Gomez, Igor Szöke, Jan Černocký, Dietrich Klakow, Petr Motlíček"
 venue: "INTERSPEECH , Brno, CZ"
-website: "https://www.fit.vut.cz/research/publication/12610"
+website: "https://www.isca-archive.org/interspeech_2021/kocour21_interspeech.html"
+slides: "/pdfs/2021_IS_callsign_boosting_presentation.pdf"
+project: "https://www.atco2.org/"
 ---
-
+Contextual adaptation of ASR is highly beneficial for multi-accent and often noisy Air Traffic Control (ATC) speech, particularly for call-sign recognition, which can be used to track conversations between ATC operators and individual airplanes.
+In this work we developed a two-stage boosting strategy: HCLG boosting and Lattice boosting, both implemented as WFST compositions with utterance-specific contextual information.
+HCLG boosting applies score discounts to individual words, while Lattice boosting targets word sequences.
+Using context data from the OpenSky Network’s surveillance database, we enhance the likelihood of call-signs appearing in ASR’s best hypothesis.
+This also improves the accuracy of the NLU module for recognizing call-signs. This work is part of <a href="https://www.atco2.org/">ATCO2 project</a>.
