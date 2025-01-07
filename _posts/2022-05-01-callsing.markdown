@@ -2,10 +2,14 @@
 layout: post
 title: "Call-Sign Recognition and Understanding for Noisy Air-Traffic Transcripts Using Surveillance Information"
 date:  2022-03-25 22:20:59 +00:00
-image: /images/placeholder.jpg
+image: /images/cru.jpg
 categories: research
 authors: "Alexander Blatt, <b>Martin Kocour</b>, Karel Veselý, Igor Szöke, Dietrich Klakow"
 venue: "ICASSP, Singapore, SG"
-website: "https://www.fit.vut.cz/research/publication/12789"
+website: "https://ieeexplore.ieee.org/document/9746301"
+arxiv: "https://arxiv.org/abs/2204.06309"
 ---
-
+Air traffic control relies on speech communication between pilots and controllers, with call-signs as unique flight identifiers.
+Extracting call-signs is challenging due to noisy channels and low signal-to-noise ratio, leading to high word error rates.
+We propose a system that identifies call-signs in noisy transcripts and converts them to the International Civil Aviation Organization format.
+By integrating surveillance data, call-sign accuracy improves up to four times, and data augmentation boosts performance on high error rate transcripts and adapts the model to new airspaces.
