@@ -18,79 +18,6 @@
   <meta name="author" content="{{ site.name }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <style type="text/css">
-    @import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300);
-      /* Color scheme stolen from Sergey Karayev */
-      a {
-      /*color: #b60a1c;*/
-      color: #1772d0;
-      /*color: #bd0a36;*/
-      text-decoration:none;
-      }
-      a:focus, a:hover {
-      color: #f09228;
-      text-decoration:none;
-      }
-      body,td,th,tr,p,a {
-      font-family: 'Roboto', sans-serif;
-      font-size: 15px;
-      font-weight: 300;
-      }
-      strong {
-      font-family: 'Roboto', sans-serif;
-      /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-      /*font-family: 'Avenir Next';*/
-      font-size: 15px;
-      font-weight: 400;
-      }
-      heading {
-      /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-      font-family: 'Roboto', sans-serif;
-      /*font-family: 'Avenir Next';*/
-      /*src: url("./fonts/Roboto_Mono_for_Powerline.ttf");*/
-      font-size: 24px;
-      font-weight: 400;
-      }
-      papertitle {
-      /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-      font-family: 'Roboto', sans-serif;
-      /*font-family: 'Avenir Next';*/
-      /*src: url("./fonts/Roboto_Mono_for_Powerline.ttf");*/
-      font-size: 15px;
-      font-weight:500;
-      }
-      name {
-      /*font-family: 'Lato', Verdana, Helvetica, sans-serif;*/
-      font-family: 'Roboto', sans-serif;
-      /*font-family: 'Avenir Next';*/
-      font-weight: 400;
-      font-size: 32px;
-      }
-      .one
-      {
-      width: 160px;
-      height: 140px;
-      position: relative;
-      }
-      .two
-      {
-      width: 160px;
-      height: 160px;
-      position: absolute;
-      transition: opacity .2s ease-in-out;
-      -moz-transition: opacity .2s ease-in-out;
-      -webkit-transition: opacity .2s ease-in-out;
-      }
-      .fade {
-       transition: opacity .2s ease-in-out;
-       -moz-transition: opacity .2s ease-in-out;
-       -webkit-transition: opacity .2s ease-in-out;
-      }
-      span.highlight {
-          background-color: #ffffd0;
-      }
-    </style>
-
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic">
@@ -132,22 +59,22 @@
           <tr></tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>News</h2>
-              <ul style="height: 300px; overflow: auto; list-style-type: none">
-                <li><strong>01/2025</strong>&emsp;Our work with Apple about rescoring ASR hypotheses with large language models (delayed-fusion) got accepted to <b>ICASSP 2025</b>.</li><br>
-                <li><strong>12/2024</strong>&emsp;Submitted our new target-speaker ASR work called <a href="https://arxiv.org/abs/2501.00114">DiCoW: Diarization-conditioned Whisper</a> to <b>Computer Speech and Language</b> journal!</li><br>
-                <li><strong>03/2024</strong>&emsp;Starting my 3rd Internship, this time at <b>Apple</b>. Working with <a href="https://scholar.google.com/citations?hl=en&user=ZZGpQG4AAAAJ">Takaaki Hori</a> and <a href="https://www.linkedin.com/in/adnanhaiderad/">Adnan Haider</a> on general ASR!</li><br>
-                <li><strong>02/2024</strong>&emsp;Participating in TensorFST workshop, a 2-week workshop focused on differentiable WFSTs. The outcome is a new <a href="https://ptal.lisn.upsaclay.fr/">Speech Platform</a> in Julia!</li><br>
-                <li><strong>06/2023</strong>&emsp;Participating in <a href="https://jsalt2023.univ-lemans.fr/en/summer-school/presentation-summer-school.html"><b>JSALT workshop</b></a>. Working with <a href="https://lucasondel.github.io/">Lucas Ondel Yang</a> (LISN, Université Paris Saclay) and <a href="https://scholar.google.com/citations?user=bJrIZK0AAAAJ&hl=en">Micheal Riley</a> (Google) on differentiable finite state automata!</li><br>
-                <li><strong>10/2022</strong>&emsp;<b>Winning</b> Albayzin 2022 ASR Challenge with our <a href="https://www.isca-archive.org/iberspeech_2022/kocour22_iberspeech.html">BCN2BRNO system</a>!</li><br>
-                <li><strong>09/2022</strong>&emsp;Starting my 2nd internship, this time at <a href="https://mila.quebec/en">MILA</a>. Working with <a href="https://sites.google.com/site/mircoravanelli/home?authuser=0">Mirco Ravanelli</a> and <a href="https://ycemsubakan.github.io/index.html">Cem Subakan</a> on source separation.</li><br>
-                <li><strong>10/2021</strong>&emsp;Parrot emerges as a leading platform for remote depositions. <a href="https://forbes.cz/jak-parrot-objevil-ameriku-cesky-startup-dostal-umelou-inteligenci-do-soudni-sine/">Forbes Czechia recognizes Parrot</a> as a rising startup revolutionizing remote legal proceedings.</li><br>
-                <li><strong>12/2020</strong>&emsp;Finishing <b>3rd</b> in <a href="https://catedrartve.unizar.es/albayzin2020results.html">Albayzin 2020 ASR Challenge</a>!</li><br>
-                <li><strong>04/2020</strong>&emsp;Finishing <b>5th</b> in <a href="https://chimechallenge.github.io/chime6/index.html">CHiME 6 Challenge</a> with a focus on Multi-Talker ASR.</li><br>
-                <li><strong>09/2019</strong>&emsp;Starting a part-time position at <a href="https://www.parrot.us/">Parrot</a> as a machine learning engineer.</li><br>
-                <li><strong>06/2019</strong>&emsp;Finishing my master's and joining <a href="https://speech.fit.vut.cz/">Speech@FIT</a> research group with a focus on <b>speech recognition.</b></li><br>
-                <li><strong>06/2018</strong>&emsp;Starting my first Internship at <a href="https://telefonicainnovaciondigital.com/">Telefónica Innovación Digital</a> in Barcelona. Working with <a href="https://www.linkedin.com/in/jordi-luque/">Jordi Luque</a> on self-supervised ASR models in Kaldi!</li><br>
-                <li><strong>05/2018</strong>&emsp;Leaving DotyPos after great 3 years! DotyPos has become a leader in POS system provider in Czechia.</li><br>
-                <li><strong>05/2015</strong>&emsp;Starting my first career position at <a href="https://www.dotypos.com/">DotyPos</a> as a software engineer.</li><br>
+              <ul style="height: 300px; overflow: auto">
+                <li><strong>01/2025</strong>:&nbsp;Our work with Apple about rescoring ASR hypotheses with large language models (delayed-fusion) got accepted to <b>ICASSP 2025</b>.</li><br>
+                <li><strong>12/2024</strong>:&nbsp;Submitted our new target-speaker ASR work called <a href="https://arxiv.org/abs/2501.00114">DiCoW: Diarization-conditioned Whisper</a> to <b>Computer Speech and Language</b> journal!</li><br>
+                <li><strong>03/2024</strong>:&nbsp;Starting my 3rd Internship, this time at <b>Apple</b>. Working with <a href="https://scholar.google.com/citations?hl=en&user=ZZGpQG4AAAAJ">Takaaki Hori</a> and <a href="https://www.linkedin.com/in/adnanhaiderad/">Adnan Haider</a> on general ASR!</li><br>
+                <li><strong>02/2024</strong>:&nbsp;Participating in TensorFST workshop, a 2-week workshop focused on differentiable WFSTs. The outcome is a new <a href="https://ptal.lisn.upsaclay.fr/">Speech Platform</a> in Julia!</li><br>
+                <li><strong>06/2023</strong>:&nbsp;Participating in <a href="https://jsalt2023.univ-lemans.fr/en/summer-school/presentation-summer-school.html"><b>JSALT workshop</b></a>. Working with <a href="https://lucasondel.github.io/">Lucas Ondel Yang</a> (LISN, Université Paris Saclay) and <a href="https://scholar.google.com/citations?user=bJrIZK0AAAAJ&hl=en">Micheal Riley</a> (Google) on differentiable finite state automata!</li><br>
+                <li><strong>10/2022</strong>:&nbsp;<b>Winning</b> Albayzin 2022 ASR Challenge with our <a href="https://www.isca-archive.org/iberspeech_2022/kocour22_iberspeech.html">BCN2BRNO system</a>!</li><br>
+                <li><strong>09/2022</strong>:&nbsp;Starting my 2nd internship, this time at <a href="https://mila.quebec/en">MILA</a>. Working with <a href="https://sites.google.com/site/mircoravanelli/home?authuser=0">Mirco Ravanelli</a> and <a href="https://ycemsubakan.github.io/index.html">Cem Subakan</a> on source separation.</li><br>
+                <li><strong>10/2021</strong>:&nbsp;Parrot emerges as a leading platform for remote depositions. <a href="https://forbes.cz/jak-parrot-objevil-ameriku-cesky-startup-dostal-umelou-inteligenci-do-soudni-sine/">Forbes Czechia recognizes Parrot</a> as a rising startup revolutionizing remote legal proceedings.</li><br>
+                <li><strong>12/2020</strong>:&nbsp;Finishing <b>3rd</b> in <a href="https://catedrartve.unizar.es/albayzin2020results.html">Albayzin 2020 ASR Challenge</a>!</li><br>
+                <li><strong>04/2020</strong>:&nbsp;Finishing <b>5th</b> in <a href="https://chimechallenge.github.io/chime6/index.html">CHiME 6 Challenge</a> with a focus on Multi-Talker ASR.</li><br>
+                <li><strong>09/2019</strong>:&nbsp;Starting a part-time position at <a href="https://www.parrot.us/">Parrot</a> as a machine learning engineer.</li><br>
+                <li><strong>06/2019</strong>:&nbsp;Finishing my master's and joining <a href="https://speech.fit.vut.cz/">Speech@FIT</a> research group with a focus on <b>speech recognition.</b></li><br>
+                <li><strong>06/2018</strong>:&nbsp;Starting my first Internship at <a href="https://telefonicainnovaciondigital.com/">Telefónica Innovación Digital</a> in Barcelona. Working with <a href="https://www.linkedin.com/in/jordi-luque/">Jordi Luque</a> on self-supervised ASR models in Kaldi!</li><br>
+                <li><strong>05/2018</strong>:&nbsp;Leaving DotyPos after great 3 years! DotyPos has become a leader in POS system provider in Czechia.</li><br>
+                <li><strong>05/2015</strong>:&nbsp;Starting my first career position at <a href="https://www.dotypos.com/">DotyPos</a> as a software engineer.</li><br>
               </ul>
             </td>
           </tr>
